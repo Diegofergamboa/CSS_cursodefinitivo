@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-size: 62.5%;
+}
+.content {
+    border: 2px;
+    padding: 100px;
+}
+.content__header {
+    border: 2px;
+    background-color: red;
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 2.5rem;
+    border-radius: 10%;
+    border: 2px;
+    width: 200px;
+    height: 90px;
+    position: absolute;
+    left: 550px;
+}
+
+.content__principal {
+    border: 2px;
+    background-color: salmon;
+    padding: 50px;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 5%;
+    width: 200px;
+    left: 550px;
+    position: fixed;
+}
